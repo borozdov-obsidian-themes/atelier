@@ -1,0 +1,17 @@
+{
+  "name": "borozdov-atelier",
+  "private": true,
+  "description": "A warm oatmeal atelier under soft daylight: cream paper, charcoal text, a hairline serif headline, pill buttons and one sage for links.",
+  "license": "MIT",
+  "scripts": {
+    "fonts": "python3 scripts/embed-fonts.py",
+    "lint": "stylelint theme.css",
+    "build": "node scripts/build.mjs",
+    "screenshots": "python3 scripts/screenshots.py"
+  },
+  "devDependencies": {
+    "lucide-static": "^1.47.0",
+    "stylelint": "^17.0.0",
+    "stylelint-config-obsidianmd": "^0.1.0"
+  }
+}

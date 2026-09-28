@@ -26,8 +26,9 @@ House rules:
 - Colors come from the palette in section 1 of `theme.css`; nothing else holds a color
   literal.
 - Oatmeal, bone and charcoal; onyx for fills, sage for links and the caret; no shadows.
-  The only embedded font is IBM Plex Serif ExtraLight (the title, the two largest headings
-  and quotes): `fonts/*.woff2` are written into `theme.css` by `npm run fonts`.
+  The only embedded font is Atelier Serif ExtraLight, a renamed subset of IBM Plex Serif
+  ExtraLight (the title, the two largest headings and quotes): `fonts/*.woff2` are written
+  into `theme.css` by `npm run fonts`.
 - The release ships `dist/theme.css` from `npm run build`: the same file without
   comments. The build fails on any lint problem.
 

@@ -159,7 +159,7 @@ the title in the type's colour.</p></div>
 {callout("success", "check", "Done", "Sage for what is finished.")}
 {callout("warning", "triangle-alert", "Heads up", "Amber for what needs a look, clay for real trouble.")}
 <div class="el-blockquote"><blockquote dir="auto"><p>Rest is a practice, not a pause.</p></blockquote></div>
-{table(["Face", "Role"], ["Plex Serif 200", "Title, the two largest headings, quotes"], ["Sans 400", "Body text"], ["Sans 500", "Labels, buttons and tags"])}
+{table(["Face", "Role"], ["Atelier Serif 200", "Title, the two largest headings, quotes"], ["Sans 400", "Body text"], ["Sans 500", "Labels, buttons and tags"])}
 """
 
 NOTE_RU = f"""

@@ -36,10 +36,14 @@ charcoal text, a hairline serif headline, pill buttons and one sage for links.
 
 ## Installation
 
-**From the community directory:** Settings → Appearance → Themes → Manage, search for
-**Borozdov Atelier**, then **Install and use**.
+**From the community directory, as a variant:** this theme ships inside **Borozdov
+Trellis**. Install Borozdov Trellis under Settings → Appearance → Themes → Manage, then
+the [Style Settings](https://github.com/mgmeyers/obsidian-style-settings) plugin, and
+choose **Atelier** under Style Settings → Borozdov Trellis → Variant. The variant brings
+this theme's palette, type and corners; its own layout, and its embedded font if it has
+one, come with the full theme below.
 
-**By hand:** download `manifest.json` and `theme.css` from the
+**The full theme, by hand:** download `manifest.json` and `theme.css` from the
 [latest release](https://github.com/borozdov-obsidian-themes/atelier/releases/latest) into
 `<vault>/.obsidian/themes/Borozdov Atelier/`, then choose Borozdov Atelier under
 Settings → Appearance → Themes.
@@ -61,5 +65,4 @@ MIT — see [LICENSE](LICENSE).
 **По-русски.** Тема из коллекции Borozdov. Два лика: светлый «Овсянка» — тёплое ателье при
 мягком дневном свете, и тёмный «Умбра» — та же мастерская, когда зажигают лампы. Кремовая
 бумага, угольный текст, волосяной заголовок с засечками (Atelier Serif ExtraLight),
-кнопки-пилюли и один шалфейный для ссылок. Устанавливается из каталога: Настройки →
-Оформление → Темы → Настроить → Borozdov Atelier → Установить и применить.
+кнопки-пилюли и один шалфейный для ссылок. В каталоге тема живёт вариантом Borozdov Trellis: установите Borozdov Trellis и плагин Style Settings, затем выберите Atelier в Style Settings → Borozdov Trellis → Variant. Целиком, со своей вёрсткой, тема ставится вручную из последнего релиза репозитория.
